@@ -1,0 +1,99 @@
+baseURL = ""
+languageCode = "en-us"
+title = "LiveLife"
+
+author = "Sonia"   # The author name
+googleAnalytics = ""    # Your Google Analytics tracking ID
+enableRobotsTXT = true
+language = "en-US"
+paginate = 7            # The numbers of posts per page
+theme = "hugo-terrassa-theme"      # Your Hugo theme
+
+[params]
+    description = "" # Description for the meta description tag
+    favicon = "favicon.ico"     # Relative URL for your favicon
+    logo = ""        # Absolute URL for your logo
+
+[params.hero]
+    textColor = "" 
+
+[params.cta] # Call To Action 
+    show = true
+    cta = "Contact"  # Text message of the CTA
+    link = "contact" # Relative URL
+
+[params.separator]
+    show = false
+
+[params.contact]
+    email = "soniajack@gmail.com"
+    phone = "3178537184"
+    skype = ""
+    address = "Bogotá D.C"
+
+[params.social]
+    twitter = "https://www.facebook.com/profile.php?id=100009668654435"
+    facebook = "https://www.facebook.com/profile.php?id=100009668654435"
+    github = ""
+    gitlab = ""
+    codepen = ""
+    instagram = "https://www.facebook.com/profile.php?id=100009668654435"
+    pinterest = "https://www.facebook.com/profile.php?id=100009668654435"
+    youtube = "https://www.facebook.com/profile.php?id=100009668654435"
+    linkedin = ""
+    weibo = ""
+    mastodon = ""
+    tumblr = ""
+    flickr = ""
+    "500px" = ""
+
+[params.fa]
+    version = ""    # Font Awesome version
+    integrity = ""  # Font Awesome integrity for the Font Awesome script
+
+[params.copy]
+    message = ""
+
+[params.agreement]
+    message = true    # You can use HTML tags
+
+[params.posts]
+    showAuthor = true
+    showDate = true
+    showTags = true
+    dateFormat = "Monday, Jan, 2006"
+
+[params.form]
+    netlify = true # Only if you are using Netlify
+    action = ""
+    method = ""
+    inputNameName = "Name"
+    inputNameLabel = "Name"
+    inputNamePlaceholder = "Name"
+    inputEmailName = "email"
+    inputEmailLabel = "E-mail"
+    inputEmailPlaceholder = "example@gmail.com"
+    inputMsgName = "txtbox"
+    inputMsgLabel = "Write something"
+    inputMsgLength = 750
+    inputSubmitValue = "send"
+
+[privacy]
+    [privacy.googleAnalytics]
+        anonymizeIP = true
+        disable = false
+        respectDoNotTrack = true
+        useSessionStorage = false
+    [privacy.instagram]
+        disable = false
+        simple = false
+    [privacy.twitter]
+        disable = false
+        enableDNT = true
+        simple = false
+    [privacy.vimeo]
+        disable = false
+        simple = false
+    [privacy.youtube]
+        disable = false
+        privacyEnhanced = true
