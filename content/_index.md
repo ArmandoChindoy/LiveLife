@@ -2,7 +2,7 @@
 title: "Home"
 description: ""
 images: [oils.png]
-draft: true
+draft: false
 menu: mains
 weight: 1
 ---
