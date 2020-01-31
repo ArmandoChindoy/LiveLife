@@ -2,7 +2,10 @@
 title: "Shop"
 description: ""
 images: []
+<<<<<<< HEAD
 draft: false
+=======
+>>>>>>> 253201125e36210b5dd86e39e99c0586773e26a4
 menu: main
 weight: 2
 ---
