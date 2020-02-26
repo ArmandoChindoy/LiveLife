@@ -8,8 +8,10 @@ weight: 3
 ---
 
 
-Con los aceites esenciales dottera busco contribuir con la  mejora del bienestar personal y familiar. Gracias a la naturalidad y eficacia de los productos, he impactado positivamente en la calidad de vida de quienes hace uso de ellos.
-Me caracterizo por proporcionar una excelente asesoria. Mi carisma y pasion por la labor contribuye a  sostener relaciones cercanas y autenticas.
-Cualquier infromacion adicional ve a la secion de contacto.
+ La Pureza y Certificación garantizada de los Productos do Terra, me dan la seguridad de poder contribuir a la Salud y Bienestar, inicialmente de nuestras familias y en general de todo nuestro entorno.
+ 
+ Teniendo la oportunidad de probarlos y ver los resultados, además de capacitarme dia a dia directamente con do Terra, me siento muy satisfecha de poder Asesorar y Acompañar a quien esté interesado en usarlos para las diferentes afecciones de salud, ya sea de manera preventiva o correctiva
 
-![](/images/tarjeta.jpg)
+ Cualquier información adicional ve a la sección de contacto
+
+![](/images/sonia.jpg)
