@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "LiveLife"
+title = "Wellness Jacky's"
 
 author = "Sonia"   # The author name
 googleAnalytics = ""    # Your Google Analytics tracking ID
@@ -19,7 +19,7 @@ theme = "hugo-terrassa-theme"      # Your Hugo theme
 
 [params.cta] # Call To Action 
     show = true
-    cta = "Contact"  # Text message of the CTA
+    cta = "Contact Me"  # Text message of the CTA
     link = "contact" # Relative URL
 
 [params.separator]
