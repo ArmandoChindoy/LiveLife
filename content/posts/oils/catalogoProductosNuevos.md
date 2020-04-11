@@ -1,7 +1,7 @@
 ---
 title: "CatalogoProductosNuevos"
 date: 2020-04-10T21:40:45-05:00
-draft: true
+draft: false
 ---
 
 # [Catalogo Productos Nuevos](/documents/catalogoProductosNuevos.pdf)

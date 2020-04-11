@@ -1,7 +1,7 @@
 ---
 title: "Lavanda"
 date: 2020-04-10T22:47:32-05:00
-draft: true
+draft: false
 Tags: ["oils","lavender"]
 ---
 

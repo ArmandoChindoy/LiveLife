@@ -1,7 +1,7 @@
 ---
 title: "CatalogoCompleto"
 date: 2020-04-10T21:39:40-05:00
-draft: true
+draft: false
 ---
 
 # [Catalogo Completo](/documents/catalogoColombia.pdf)
