@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Wellness Jacky's"
+title = "Sonesencials"
 
 author = "Sonia"   # The author name
 googleAnalytics = ""    # Your Google Analytics tracking ID
@@ -11,7 +11,7 @@ theme = "hugo-terrassa-theme"      # Your Hugo theme
 
 [params]
     description = "" # Description for the meta description tag
-    favicon = "favicon.ico"     # Relative URL for your favicon
+    favicon = "oils.ico"     # Relative URL for your favicon
     logo = ""        # Absolute URL for your logo
 
 [params.hero]

@@ -4,7 +4,7 @@ description: ""
 images: []
 draft: false
 menu: main
-weight: 2
+weight: 6
 ---
 
 ## Step 1

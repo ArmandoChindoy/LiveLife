@@ -1,6 +1,19 @@
-body{
-    color:black;
+body {
+    color: black;
 }
-a{
-    color:#FFC107;
+
+a {
+    color: #FFC107;
+}
+
+img[src$='#center'] {
+    display: block;
+    margin: 1.0rem auto;
+    max-width: 100%;
+    height: auto;
+}
+
+img[src$='#scale'] {
+    max-width: 100%;
+    height: auto;
 }
